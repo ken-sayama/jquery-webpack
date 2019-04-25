@@ -14,3 +14,6 @@ $ npm install
 // running with dev-server
 $ npx webpack-dev-server
 ```
+
+You can see this after running the command:
+[http://localhost:8080/](http://localhost:8080/)
